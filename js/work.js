@@ -17,7 +17,15 @@ $('.rpss').on('click',function(){
 $('.rpso').on('click',function(){
     window.open('https://nargizrafi.github.io/rpsmultiplayer/', '_blank')
 })
-
+$('.snake-game').on('click',function(){
+    window.open('https://nargizrafi.github.io/snake-game/', '_blank')
+})
+$('.web-services').on('click',function(){
+    window.open('https://nargizrafi.github.io/web-services-website/', '_blank')
+})
+$('.shopping').on('click',function(){
+    window.open('https://nargizrafi.github.io/shopping-website/', '_blank')
+})
 $('.bars').on('click',function(){
     $('.menuu').css({
         display:'flex'
